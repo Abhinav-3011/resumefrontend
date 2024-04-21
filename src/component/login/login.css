@@ -1,0 +1,9 @@
+.modal_main
+{
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+.MuiInputBase-root 
+{
+    width: 100% !important;
+}
